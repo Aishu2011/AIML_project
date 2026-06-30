@@ -1,0 +1,44 @@
+2026-06-29 13:16:04,133 - INFO - Application started successfully.
+2026-06-29 13:16:04,134 - WARNING - This is a sample warning.
+2026-06-29 13:16:04,134 - ERROR - This is a sample error.
+2026-06-29 13:42:06,729 - INFO - Application started successfully.
+2026-06-29 13:42:06,730 - WARNING - This is a sample warning.
+2026-06-29 13:42:06,730 - ERROR - This is a sample error.
+2026-06-29 16:34:22,916 - INFO - Application started successfully.
+2026-06-29 16:34:22,917 - WARNING - This is a sample warning.
+2026-06-29 16:34:22,917 - ERROR - This is a sample error.
+2026-06-29 16:34:44,219 - ERROR - File'sample.csv' does not exist.
+2026-06-29 16:34:44,219 - INFO - File loading operation completed.
+2026-06-29 16:36:26,909 - INFO - CSV file 'data/sample.csv' loaded successfully.
+2026-06-29 16:36:26,911 - INFO - File loading operation completed.
+2026-06-29 16:51:12,729 - INFO - CSV file 'data/sample.csv' loaded successfully.
+2026-06-29 16:51:12,739 - INFO - File loading operation completed.
+2026-06-29 16:52:26,012 - INFO - CSV file 'data/sample.csv' loaded successfully.
+2026-06-29 16:52:26,019 - INFO - File loading operation completed.
+2026-06-29 16:52:26,030 - INFO - CSV file 'outputs/sample_output.csv' saved successfully.
+2026-06-29 16:52:26,030 - INFO - File writing operation completed.
+2026-06-29 16:52:26,038 - INFO - JSON file 'outputs/sample_output.json' saved successfully.
+2026-06-29 16:52:26,038 - INFO - File writing operation completed.
+2026-06-29 16:52:26,052 - INFO - TXT file 'outputs/sample_output.txt' saved successfully.
+2026-06-29 16:52:26,053 - INFO - File writing operation completed.
+2026-06-29 16:52:26,055 - INFO - Pickle file 'outputs/sample_output.pkl' saved successfully.
+2026-06-29 16:52:26,056 - INFO - File writing operation completed.
+2026-06-29 16:58:58,439 - INFO - CSV file 'data/sample.csv' loaded successfully.
+2026-06-29 16:58:58,451 - INFO - File loading operation completed.
+2026-06-29 16:58:58,461 - INFO - CSV file 'outputs/sample_output.csv' saved successfully.
+2026-06-29 16:58:58,461 - INFO - File writing operation completed.
+2026-06-29 16:58:58,467 - INFO - JSON file 'outputs/sample_output.json' saved successfully.
+2026-06-29 16:58:58,467 - INFO - File writing operation completed.
+2026-06-29 16:58:58,468 - INFO - TXT file 'outputs/sample_output.txt' saved successfully.
+2026-06-29 16:58:58,468 - INFO - File writing operation completed.
+2026-06-29 16:58:58,470 - INFO - Pickle file 'outputs/sample_output.pkl' saved successfully.
+2026-06-29 16:58:58,470 - INFO - File writing operation completed.
+2026-06-29 17:06:48,379 - INFO - Database connected successfully.
+2026-06-29 17:06:48,484 - INFO - Query executed successfully.
+2026-06-29 17:06:48,484 - INFO - Database connection closed.
+2026-06-29 17:36:42,553 - INFO - Database connected successfully.
+2026-06-29 17:36:42,562 - ERROR - [Errno 2] No such file or directory: 'sql/schema.sql'
+2026-06-29 17:38:06,906 - INFO - Database connected successfully.
+2026-06-29 17:38:07,578 - INFO - SQL script 'sql/schemas.sql' executed successfully.
+2026-06-29 17:38:08,169 - INFO - SQL script 'sql/sample_data.sql' executed successfully.
+2026-06-29 17:38:08,171 - INFO - Database connection closed.
